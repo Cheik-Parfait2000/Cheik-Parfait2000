@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Cheik-Parfait2000/Cheik-Parfait2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am Cheik Parfait Nacro, a Geomatics for Natural Ressource engineering student!
+<details open>
+<summary>Personnal projects</summary>
 
-Here are some ideas to get you started:
+| Projects | Technologies used |
+|-------:|-------|
+|A web application to manage wildfire in Forest sectors|Django, HTML5, CSS3, Javascript, PostgreSQL|
+|A webGIS application for RIF-forests wildfire data analysis|GeoDjango, HTML, CSS, Leaflet, plotly, PostGIS|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+---
+
+<!-- TO DO: add more details about me later -->
