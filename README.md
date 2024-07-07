@@ -1,5 +1,5 @@
 ## About me
-I am Cheik Parfait Nacro, a Geomatics for Natural Ressource engineering student!
+I am Cheik Parfait Nacro, a Geomatics for Natural Ressource engineer. Here is an overview of my personal projects.
 
 <summary>Personnal projects</summary>
 
