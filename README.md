@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About me
 I am Cheik Parfait Nacro, a Geomatics for Natural Ressource engineering student!
 
